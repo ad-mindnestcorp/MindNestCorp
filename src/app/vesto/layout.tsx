@@ -81,9 +81,26 @@ function VestoFooter() {
               MindNestCorp
             </Link>
           </div>
-          <p className="text-sm text-gray-600">
-            © {new Date().getFullYear()} MindNestCorp. All rights reserved.
-          </p>
+          <div className="flex flex-col items-center gap-2 sm:items-end">
+            <p className="text-sm text-gray-600">
+              © {new Date().getFullYear()} MindNestCorp. All rights reserved.
+            </p>
+            <div className="flex items-center gap-4">
+              <Link
+                href="/vesto/privacy"
+                className="text-xs text-gray-500 transition-colors hover:text-gray-300"
+              >
+                Privacy Policy
+              </Link>
+              <span className="text-gray-700">·</span>
+              <Link
+                href="/vesto/terms"
+                className="text-xs text-gray-500 transition-colors hover:text-gray-300"
+              >
+                Terms of Service
+              </Link>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
