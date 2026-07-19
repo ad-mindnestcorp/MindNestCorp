@@ -278,9 +278,9 @@ You agree to indemnify and hold harmless MindNestCorp and its officers, director
 
 ---
 
-## 12. Governing Law
+## 12. Governing Law 
 
-These Terms are governed by the laws of the State of Delaware, USA. EU consumers retain rights under their country's mandatory consumer protection laws.
+These Terms are governed by the laws of the State of Delaware, USA. EU consumers retain rights under their country's mandatory consumer protection laws .
 
 ---
 
